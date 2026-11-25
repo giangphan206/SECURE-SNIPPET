@@ -1,0 +1,6 @@
+{
+  "appName": "legacy-service",
+  "port": 8080,
+  "debug": false,
+  "featureFlag": "deprecated"
+}

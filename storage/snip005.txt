@@ -1,0 +1,15 @@
+-- SQL JOIN Cheatsheet
+-- INNER JOIN: matching rows in both tables
+SELECT u.id, o.id
+FROM users u
+INNER JOIN orders o ON o.user_id = u.id;
+
+-- LEFT JOIN: all rows from left table
+SELECT u.id, o.id
+FROM users u
+LEFT JOIN orders o ON o.user_id = u.id;
+
+-- RIGHT JOIN: all rows from right table
+SELECT u.id, o.id
+FROM users u
+RIGHT JOIN orders o ON o.user_id = u.id;

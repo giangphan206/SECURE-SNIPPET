@@ -1,0 +1,52 @@
+[
+  {
+    "id": "snip001",
+    "title": "Hello World JavaScript",
+    "author": "alice",
+    "isPrivate": false,
+    "views": 3,
+    "maxViews": 100,
+    "expiresAt": "2099-12-31T23:59:59.000Z",
+    "createdAt": "2026-01-01T08:00:00.000Z"
+  },
+  {
+    "id": "snip002",
+    "title": "Private API Notes",
+    "author": "alice",
+    "isPrivate": true,
+    "views": 1,
+    "maxViews": 50,
+    "expiresAt": "2099-12-31T23:59:59.000Z",
+    "createdAt": "2026-01-02T09:00:00.000Z"
+  },
+  {
+    "id": "snip003",
+    "title": "Python Quick Sort",
+    "author": "bob",
+    "isPrivate": false,
+    "views": 10,
+    "maxViews": 10,
+    "expiresAt": "2099-12-31T23:59:59.000Z",
+    "createdAt": "2026-01-03T10:00:00.000Z"
+  },
+  {
+    "id": "snip004",
+    "title": "Expired Config Snippet",
+    "author": "bob",
+    "isPrivate": false,
+    "views": 2,
+    "maxViews": 100,
+    "expiresAt": "2025-01-01T00:00:00.000Z",
+    "createdAt": "2024-12-01T07:30:00.000Z"
+  },
+  {
+    "id": "snip005",
+    "title": "SQL Join Cheatsheet",
+    "author": "admin",
+    "isPrivate": false,
+    "views": 0,
+    "maxViews": 200,
+    "expiresAt": "2099-06-30T23:59:59.000Z",
+    "createdAt": "2026-02-15T12:00:00.000Z"
+  }
+]

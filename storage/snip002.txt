@@ -1,0 +1,5 @@
+API NOTES (PRIVATE)
+- Base URL: https://api.example.com/v1
+- Auth: Bearer token
+- Rate limit: 100 req/min
+- Do not share this snippet publicly.
